@@ -73,3 +73,10 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+.idea
+.settings
+target
+*.iml
+.project
+.classpath

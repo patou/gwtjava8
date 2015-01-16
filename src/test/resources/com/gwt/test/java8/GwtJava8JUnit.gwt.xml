@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="GwtJava8">
+  <!-- Inherit our applications main module.                      -->
+  <inherits name='com.gwt.test.java8.GwtJava8' />
+
+  <!-- Specify the path to any remote services.                   -->
+  <servlet path="/GwtJava8/greet" class="com.gwt.test.java8.server.GreetingServiceImpl" />
+
+</module>
